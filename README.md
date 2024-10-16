@@ -1,4 +1,4 @@
-#Pokemon Search App
+# Pokémon Search App
 
 "Build a Pokémon Search App Project" is the last project of FreeCodeCamp 
 [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/).
